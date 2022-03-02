@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>stylesheets/Combinear.qss</file>
+        <file>stylesheets/Devsion.qss</file>
+        <file>stylesheets/Filmovio.qss</file>
+        <file>stylesheets/MyWatch.qss</file>
+        <file>stylesheets/Obit.qss</file>
+        <file>stylesheets/Perstfic.qss</file>
+        <file>stylesheets/VisualScript.qss</file>
+        <file>stylesheets/Wstartpage.qss</file>
+    </qresource>
+</RCC>
